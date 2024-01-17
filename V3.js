@@ -3,5 +3,5 @@ document.getElementById('acceptButton').addEventListener('click', function() {
 });
 
 document.getElementById('rejectButton').addEventListener('click', function() {
-    alert('Your only option is Yes!!'. 😚😊');
+    alert('Your only option is Yes!!😚😊');
 });

@@ -1,5 +1,5 @@
 document.getElementById('acceptButton').addEventListener('click', function() {
-    alert('I am so happy you said yes! 😊');
+    alert('Love youu azhagii! 😊');
 });
 
 document.getElementById('rejectButton').addEventListener('click', function() {
